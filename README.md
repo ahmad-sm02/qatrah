@@ -64,7 +64,7 @@ Specifically, we collect the pressure data from the optimally-placed sensors in 
 ## Acknowledgements
 
 **Hackers:**
-[Anas](https://github.com/AnasMM19), [Basant](https://github.com/Basant-Elhussein), [Mohammed](https://github.com/Mouhamedaminegarrach), [Airin](https://github.com/Rainiko66), [Lakshika](https://github.com/rathilakshika), [Sanjana](https://github.com/Sanjana-Nambiar), [Selin Doga](https://github.com/selindoga), [Yaser](https://github.com/YaserAlOsh)
+[Anas](https://github.com/AnasMM19), [Basant](https://github.com/Basant-Elhussein), [Mohammed](https://github.com/Mouhamedaminegarrach), [Airin](https://github.com/Rainiko66), [Lakshika](https://github.com/rathilakshika), [Sanjana](https://github.com/Sanjana-Nambiar), [Selin Doga](https://github.com/selindoga), [Yaser](https://github.com/YaserAlOsh), [Ahmad](https://github.com/ahmad-sm02)
 
 **Mentors:**
 [Fouad](https://github.com/fo-ui), [El Amine](https://github.com/qdevpsi3), [Victory Omole](https://github.com/vtomole), [Akash Kant](https://github.com/akashkthkr)
